@@ -26,16 +26,6 @@ Soy una persona muy disciplinada, con ganas de trabajar y comenzar a desenvolver
 - 🇺🇸 Inglés: Nivel alto
 - 🇮🇹 Italiano: Nivel intermedio
 
-## 🚗 Otros Datos
-- 📜 Carnet de conducir
-- 🚗 Vehículo propio
-
-## 📫 Contacto
-📧 Crlosinsc@gmail.com
-📍 Alcorcón, España
-📞 +34 620083248
-
----
 _¡Gracias por visitar mi perfil! 😊_
 
 
