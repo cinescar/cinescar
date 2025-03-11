@@ -2,7 +2,6 @@
 
 ## 📌 Sobre mí
 Soy una persona muy disciplinada, con ganas de trabajar y comenzar a desenvolverme dentro del mundo laboral, trabajando con constancia y completo compromiso.
-<img src="https://github.com/cinescar/TFG/blob/main/imgportada/imgportada.png" width="400">
 
 ## 🎓 Educación
 - 🎓 Grado Superior en Administración de Sistemas Informáticos en la Red - Universidad Alfonso X El Sabio (Actual)
