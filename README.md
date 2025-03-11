@@ -7,13 +7,6 @@ Soy una persona muy disciplinada, con ganas de trabajar y comenzar a desenvolver
 - 🎓 Grado Superior en Administración de Sistemas Informáticos en la Red - Universidad Alfonso X El Sabio (Actual)
 - 📜 Certificado en Big Data & Inteligencia Artificial - Universidad Alfonso X El Sabio
 - 📜 Certificado en Entornos Sanitarios & OpenEHR - Universidad Alfonso X El Sabio
-- 🎓 Título de Monitor de Ocio y Tiempo Libre - Escuela de Animación Juvenil Caminamos (2022-2023)
-
-## 💼 Experiencia
-- 🏢 Monitor de ocio y tiempo libre - Delegación pastoral de juventud de Toledo (07/2023 - 08/2023)
-- 🏢 Voluntario en Protección Civil - Protección Civil de Casarrubios del Monte (07/2021 - 02/2023)
-- 🏢 Promotor de Ventas - Tema Promoción S.L, El Corte Inglés El Bercial (12/2023)
-- 🏢 Promotor de Ventas - Tema Promoción S.L, Sanicat Verdecora (12/2024 - 02/2025)
 
 ## 🛠️ Habilidades
 - ✅ Buena comunicación
