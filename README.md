@@ -1,5 +1,3 @@
-![Banner](https://via.placeholder.com/1200x400?text=Mi+Portada+GitHub)
-
 # 👋 ¡Hola! Soy Carlos Inés Carpallo
 
 ## 📌 Sobre mí
